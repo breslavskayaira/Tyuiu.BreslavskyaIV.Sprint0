@@ -1,0 +1,2 @@
+C:\Users\Ирина\source\C#\Tyuiu.BreslavskyaIV.Sprint0\Tyuiu.BreslavskyaIV.Sprint0.Task7.V0.Test\obj\Debug\Tyuiu.BreslavskyaIV.Sprint0.Task7.V0.Test.csproj.AssemblyReference.cache
+C:\Users\Ирина\source\C#\Tyuiu.BreslavskyaIV.Sprint0\Tyuiu.BreslavskyaIV.Sprint0.Task7.V0.Test\obj\Debug\Tyuiu.BreslavskyaIV.Sprint0.Task7.V0.Test.csproj.CoreCompileInputs.cache
